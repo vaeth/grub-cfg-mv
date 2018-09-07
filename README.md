@@ -28,7 +28,7 @@ If you compile/install the kernels with https://github.com/vaeth/kernel
 these symlinks will be updated automatically.
 
 No initramfs is supposed to be used - with the exception of
-`/lib/firmware/microcode.cpio` so that the kernel can update
+`/boot/intel-uc.img` so that the kernel can update
 your processors microcode before starting (recommended).
 
 Read the grub documentation if you need initramfs for another purpose
