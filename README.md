@@ -2,6 +2,7 @@
 
 (C) Martin Väth (martin at mvath.de).
 This project is under the GPL-2 license.
+SPDX-License-Identifier: GPL-2.0-only
 
 A grub.cfg library/example for __GRUB2__
 
